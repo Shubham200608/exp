@@ -1,0 +1,9 @@
+{
+  "name": "E-Commerce Store PWA",
+  "short_name": "EStore",
+  "description": "Online shopping application for electronics and gadgets",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#1976d2",
+  "background_color": "#ffffff"
+}
